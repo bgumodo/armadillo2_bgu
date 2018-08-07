@@ -16,5 +16,5 @@ Known issues
 
 Troubleshooting: information on problems that are typically encountered and how they can be solved, when possible
 
---Future work: ideas for improvements
+$Future work: ideas for improvements
 
