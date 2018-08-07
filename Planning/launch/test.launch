@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+
+<launch>  
+    <node name="master" pkg="armadillo2_bgu" type="master" output="screen">
+    </node>
+    
+    
+  <!--  <node name="observe" pkg="armadillo2_bgu" type="observe" output="screen">
+    </node>-->
+
+    <node name="move" pkg="armadillo2_bgu" type="move" output="screen">
+    </node>
+
+    <node name="pick" pkg="armadillo2_bgu" type="pick" output="screen">
+    </node>
+
+    <node name="arm" pkg="armadillo2_bgu" type="arm" output="screen">
+    </node>
+
+
+    
+</launch>
